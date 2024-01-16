@@ -10,7 +10,7 @@
 
 ##
 
-![PMZPRO GitHub stats](https://github-readme-stats.vercel.app/api?username=pmzpro&show_icons=true&theme=dracula&count_private=true)
+![PMZPRO GitHub stats](https://github-readme-stats.vercel.app/api?username=pmzpro&show_icons=true&theme=dark&count_private=true)
 
 ##
 
